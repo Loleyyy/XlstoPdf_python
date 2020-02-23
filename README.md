@@ -14,6 +14,14 @@ Prend 3 param :
 
 
 Dependance :
-office excel
-pip install
-pip install pypiwin32 
+
+
+- office excel
+
+
+- pip install
+
+
+- pip install pypiwin32 
+
+
