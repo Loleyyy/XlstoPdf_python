@@ -1,6 +1,8 @@
 Script python permettant de convertir un fichier xls to pdf en python.
 
-Prend deux lien en paramètre :
+Prend 3 param :
+
+
 1 - Lien du fichier xls
 
 
